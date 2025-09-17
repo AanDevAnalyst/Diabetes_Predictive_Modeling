@@ -15,7 +15,7 @@ This project develops a machine learning model to predict the likelihood of  Dia
 - Deploy the model for real-world usability.
 
 
-📂**DATASET:** 💉🎗 Diabetes Data Report
+📂**DATASET:** 🩺 Diabetes Data Report
 - Features include: Demographics: (Age & Pregnancies), Clinical Measurements: (Glucose, Blood Pressure, Skin Thickness, Insulin & Body Mass Index), Genetic Risk: (Diabetes Pedigree Function), and Target: Outcome.
 - Target: 0 = None Diabetic Patient & 1 = Diabetic Patient
 
