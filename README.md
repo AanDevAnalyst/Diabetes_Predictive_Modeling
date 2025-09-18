@@ -50,7 +50,3 @@ This project develops a machine learning model to predict the likelihood of  Dia
 👨‍💻 **Developer:** [AanDevAnalyst](https://www.instagram.com)
 
 
-
-Would you like me to tailor this README took like a portfolio-ready project for recruiters (with more storytelling 
-
-
